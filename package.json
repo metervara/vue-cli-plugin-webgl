@@ -1,0 +1,10 @@
+{
+    "name": "vue-cli-plugin-webgl",
+    "version": "0.1.0",
+    "description": "vue-cli plugin for a basic webgl setup",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/metervara/vue-cli-plugin-webgl.git"
+      },
+      "homepage": "https://github.com/metervara/vue-cli-plugin-webgl.git#readme"
+  }
